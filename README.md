@@ -8,7 +8,7 @@ Access the gallery in:
 
 ## 📋 Table of contents
 
-1. [Sample Applications](#2-sample-applications)
+1. [Sample Applications](##1-sample-applications)
 2. [Notebooks](#2-notebooks)
 3. [Application Starters](#3-application-starters)
 4. [Workshops](#4-workshops)
@@ -23,11 +23,16 @@ Access the gallery in:
 
 ## 2. Notebooks
 
+- [entry](#): Short description
+
 
 ## 3. Application Starters
 
 
-## 4. Tools
+## 4. Workshops
+
+
+## 5. Tools
 
 
 
